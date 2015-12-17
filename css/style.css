@@ -11,7 +11,8 @@ h5,
 h6 {
   padding:0;
   margin:0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Lato", sans-serif;
+  font-weight: lighter;
 }
 
 .clear-fix {
@@ -26,7 +27,7 @@ h6 {
 
 h1 {
   font-size: 40px;
-  color: #f5a623;
+  color: #d9d5db;
   line-height: 48px;
   display: inline;
 }
@@ -100,16 +101,16 @@ a {
 }
 
 #skills-h3 {
-  color: #f5ae23;
+  color: #d9d5db;
   display: none;
 }
 
 .orange {
-  background-color: #f5ae23;
+  background-color: #d9d5db;
 }
 
 .orange-text {
-  color: #f5ae23;
+  color: #d9d5db;
 }
 
 .white-text {
@@ -166,6 +167,7 @@ span {
 
 #lets-connect {
   text-align: center;
+  font-size: 14px;
 }
 
 /* Media queries to handle various device widths */
